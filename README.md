@@ -2,10 +2,10 @@
 
 python을 공부하는 동안 정리해 놓는 저장소 입니다.
 
-Python import error
+<h1>Python import error</h1>
 일단 저는 코린이입니다. 이제 강의 수강을 시작했고 하면서 막혔던 부분을 다른 설명이나 지식없이 해결한 부분이라 넓은 아량으로 읽어 주셨으면 감사하겠습니다. 막혔던 부분 다른 분들도 격게 되실때 해결하시는데 도움이 되고자 남깁니다.
 
-Error
+<h2>Error</h2>
 
 ![](https://velog.velcdn.com/images/littleduck/post/f40e45cb-5ef0-4196-a780-3230696403cf/image.png)
 첫 줄에 numpy나 requests등 import 했을때 발생하는 에러이다 아나콘다나 python이 최신 버전으로 깔려있고 pip install로 이미 설치를 했음에도 나타난다.
@@ -25,15 +25,15 @@ VScode에서 JSON에서 코드를 추가하면되는데 무슨 뜻인지 아직 
 
 제가 스스로 찾아서 해결했다는 것에 의의를 두고 있습니다. 언젠가 무슨 의미인지 알게되는 날이 오길...
 
-해결법
+<h2>해결법</h2>
 command를 호출하고
-![](https://velog.velcdn.com/images/littleduck/post/4cf996f5-2ffe-4061-a143-e3f1712c255d/image.png)
+<img href='![](https://velog.velcdn.com/images/littleduck/post/4cf996f5-2ffe-4061-a143-e3f1712c255d/image.png)'>
 language specific setting 검색
-![](https://velog.velcdn.com/images/littleduck/post/796be107-36fa-4830-911d-12c8abee1007/image.png)
+<img href='![](https://velog.velcdn.com/images/littleduck/post/796be107-36fa-4830-911d-12c8abee1007/image.png)'>
 python 검색
-![](https://velog.velcdn.com/images/littleduck/post/6f8c590d-cf2c-40d8-a3bd-ec7647239990/image.png)
+<img href='![](https://velog.velcdn.com/images/littleduck/post/6f8c590d-cf2c-40d8-a3bd-ec7647239990/image.png)'>
 setting.json에서
-![](https://velog.velcdn.com/images/littleduck/post/24c2835d-f3bd-477c-80c5-44d6763619af/image.png)
+<img href='![](https://velog.velcdn.com/images/littleduck/post/24c2835d-f3bd-477c-80c5-44d6763619af/image.png)'>
 
 이 코드들을 문법에 잘 맞게 입력하면 된다.
 
@@ -53,7 +53,7 @@ setting.json에서
   ]
 
 
-미숙한 영어실력으로 steck overflow에서 긁어 온것입니다. 관련된 글들을 읽고 이것저것 수집해 왔습니다.
+미숙한 영어실력으로 stack overflow에서 긁어 온것입니다. 관련된 글들을 읽고 이것저것 수집해 왔습니다.
 
 저처럼 고생하지 마시길 바랍니다...
 
