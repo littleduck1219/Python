@@ -33,12 +33,12 @@ VScode에서 JSON에서 코드를 추가하면되는데 무슨 뜻인지 아직 
 <p>python 검색</p>
 ![](https://velog.velcdn.com/images/littleduck/post/6f8c590d-cf2c-40d8-a3bd-ec7647239990/image.png)
 <p>setting.json에서</p>
-![](https://velog.velcdn.com/images/littleduck/post/24c2835d-f3bd-477c-80c5-44d6763619af/image.png)'
+![](https://velog.velcdn.com/images/littleduck/post/24c2835d-f3bd-477c-80c5-44d6763619af/image.png)
 
 이 코드들을 문법에 잘 맞게 입력하면 된다.
 
 
-
+```
 "python.autoComplete.extraPaths": [
     "./path-to-your-code"
   ],
@@ -51,7 +51,7 @@ VScode에서 JSON에서 코드를 추가하면되는데 무슨 뜻인지 아직 
     "--load-plugin",
     "pylint_protobuf"
   ]
-
+```
 
 미숙한 영어실력으로 stack overflow에서 긁어 온것입니다. 관련된 글들을 읽고 이것저것 수집해 왔습니다.
 
