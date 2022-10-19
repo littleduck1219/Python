@@ -27,12 +27,18 @@ VScode에서 JSON에서 코드를 추가하면되는데 무슨 뜻인지 아직 
 
 <h2>해결법</h2>
 <p>command를 호출하고</p>
+
 ![](https://velog.velcdn.com/images/littleduck/post/4cf996f5-2ffe-4061-a143-e3f1712c255d/image.png)
+
 <p>language specific setting 검색</p>
+
 ![](https://velog.velcdn.com/images/littleduck/post/796be107-36fa-4830-911d-12c8abee1007/image.png)
 <p>python 검색</p>
+
 ![](https://velog.velcdn.com/images/littleduck/post/6f8c590d-cf2c-40d8-a3bd-ec7647239990/image.png)
+
 <p>setting.json에서</p>
+
 ![](https://velog.velcdn.com/images/littleduck/post/24c2835d-f3bd-477c-80c5-44d6763619af/image.png)
 
 이 코드들을 문법에 잘 맞게 입력하면 된다.
