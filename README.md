@@ -2,17 +2,21 @@
 
 python을 공부하는 동안 정리해 놓는 저장소 입니다.
 
+01. import error 
+
 <h1>Python import error</h1>
 일단 저는 코린이입니다. 이제 강의 수강을 시작했고 하면서 막혔던 부분을 다른 설명이나 지식없이 해결한 부분이라 넓은 아량으로 읽어 주셨으면 감사하겠습니다. 막혔던 부분 다른 분들도 격게 되실때 해결하시는데 도움이 되고자 남깁니다.
 
 <h2>Error</h2>
 
-![](https://velog.velcdn.com/images/littleduck/post/f40e45cb-5ef0-4196-a780-3230696403cf/image.png)
+![](https://velog.velcdn.com/images/littleduck/post/84221420-e764-4e2e-96cc-0a393123a066/image.png)
+
 첫 줄에 numpy나 requests등 import 했을때 발생하는 에러이다 아나콘다나 python이 최신 버전으로 깔려있고 pip install로 이미 설치를 했음에도 나타난다.
 인터넷에 검색하여 여러 사이트나 블로그를 확인하면 대부분 interpreter 인터프리터경로를 재설정하라고 한다.
 
 
 ![](https://velog.velcdn.com/images/littleduck/post/f40e45cb-5ef0-4196-a780-3230696403cf/image.png)
+
 이렇게나 많다..
 
 하나씩 다 해봤지만 안되고 하나씩 바꾸고 껏다키고 뭔짓을 해도 안됫다....
