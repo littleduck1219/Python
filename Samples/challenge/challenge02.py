@@ -5,7 +5,7 @@ def solution(p):
 
 
 
-w = p
+w = 
 u = ""
 v = ""
 sliceW = ""
